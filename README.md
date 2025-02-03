@@ -1,5 +1,7 @@
 # AI control of harmful fine-tuning: an immunization protocol towards aligning customized AI 
 
+Detailed project description: [here!]("AI Control of Harmful Fine-Tuning, Kai Rothe.pdf")
+
 <p align="center">
   <img src="figures/AI%20Control%20Sketch%20Harmful%20Prompt.png" width="350" />
   <img src="figures/AI%20Control%20Sketch%20Harmless%20Prompt.png" width="350" /> 
@@ -14,6 +16,6 @@ Harmful Score on StrongREJECT Benchmark:
 
 <p align="center">
   <img src="results/harmfulness_strongREJECT.png" width="500" /> 
+  <img src="results/histogram_scores.png" width="500" /> 
 </p>
 
-ArXiv-Link: TBA, see project description draft for the current state of progress.
